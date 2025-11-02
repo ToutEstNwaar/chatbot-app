@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Multi-modal Chat",
+  "description": "A mobile-first chatbot application that allows users to interact with the Gemini 2.5 Flash model using text, images, videos, voice notes, and files.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
